@@ -3,3 +3,5 @@ cal_S1_fixed_man.txt и cal_S2_fixed_man.txt - калибровки
 get_nom.py - производит калибровку и выводит данные в nominal.txt
 script.py - берет данные из table_well_loc.txt и nomin.txt, выводит в файл параметры аппраксимации и строит графики
 function2.py - файл с функциями
+calc_cal_HR_fit - функция взята у "dsvinkin"
+fitter_3ch.py - файл с функциями, взят у "dsvinkin"
